@@ -24,3 +24,4 @@ int main()
 
     return 0;
 }
+//zamiast "l" lepiej użyć innej zmiennej, ponieważ jest ona podobna do "1" 
