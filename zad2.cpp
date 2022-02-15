@@ -4,17 +4,17 @@ using namespace std;
 
 int main() {
 	
-	int a,b;
+	int liczba1,liczba2;
 	
 	cout<<"Podaj dwie liczby"<<endl;
-	cin>>a>>b;
+	cin>>liczba1>>liczba2;
 	
-	if (a>=b) {
-		cout<<a;
+	if (liczba1>=liczba2) {
+		cout<<liczba1;
 		
 	}
-	else if (b>=a) {
-		cout<<b;
+	else if (liczba2>=liczba1) {
+		cout<<liczba2;
 		
 	}
 	
